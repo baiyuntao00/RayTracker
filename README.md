@@ -1,5 +1,5 @@
 # RayTracker
-This is a rendering engine based on ray tracing algorithm. No third-party libraries are used.
+This is a rendering engine based on ray tracing algorithm. No third-party libraries are used. C++/MFC
 
 Finish:
 Local lighting, global lighting, shadow, bounding box, texture mapping, model move, various materials, anti-aliasing， multi-thread...
