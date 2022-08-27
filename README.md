@@ -1,5 +1,8 @@
 # RayTracker
-This is a rendering engine based on ray tracing algorithm. No third-party libraries are used. VS2013/MFC
+This is a rendering engine based on ray tracing algorithm. No third-party libraries are used. 
+
+Env:
+VS2013, MFC
 
 Finish:
 Local lighting, global lighting, shadow, bounding box, texture mapping, model move, various materials, anti-aliasing， multi-thread...
